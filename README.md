@@ -42,7 +42,7 @@ This application helps marketing teams track and analyze influencer performance 
 
 1. Clone the repository
 ```bash
-https://github.com/himuexe/Influencer-Engagement-Tracker.git
+git clone https://github.com/himuexe/Influencer-Engagement-Tracker.git
 cd influencer-engagement-tracker
 ```
 
